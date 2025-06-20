@@ -1,4 +1,3 @@
-
 {
   "name": "peerchat-server",
   "version": "1.0.0",
@@ -8,5 +7,8 @@
   },
   "dependencies": {
     "ws": "^8.15.0"
+  },
+  "engines": {
+    "node": ">=16"
   }
 }
